@@ -1,0 +1,9 @@
+com\mycompany\librarymanagementsystem\Library.class
+com\mycompany\librarymanagementsystem\DVD.class
+com\mycompany\librarymanagementsystem\Staff.class
+com\mycompany\librarymanagementsystem\LibraryItem.class
+com\mycompany\librarymanagementsystem\Book.class
+com\mycompany\librarymanagementsystem\Magazine.class
+com\mycompany\librarymanagementsystem\Student.class
+com\mycompany\librarymanagementsystem\Member.class
+com\mycompany\librarymanagementsystem\LibraryManagementSystem.class
